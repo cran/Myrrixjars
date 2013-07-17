@@ -1,0 +1,7 @@
+02d252f127f2674fa5d30db133969d0d *DESCRIPTION
+d265e9b5accb770720934aff9d93e1f1 *NAMESPACE
+f2c867a93b2bb9ea8027afb420d23b70 *NEWS
+15661d6dbd96811d283a56a9c574cb98 *R/onLoad.R
+cf01020ec09c1ddd0b016bc7e94fff6f *inst/java/LICENSE-2.0.html
+9a62a31b832bd09dcb903345956d6afe *inst/java/myrrix-client-java-1.0.1.jar
+5de4e5b769c283b3bfcd16875519e22b *inst/java/myrrix-serving-1.0.1.jar
